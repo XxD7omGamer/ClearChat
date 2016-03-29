@@ -1,2 +1,3 @@
 # ●ClearChat
-  ●Clear Chat with command
+   ●Clear Chat with command
+   ●Soon... clear chat for all !
